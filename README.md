@@ -6,8 +6,9 @@ An application that allows users to search for safe routes to travel between sou
 Primarily an android application with emphasis on showing google maps efficiently. 
 
 ## Back-end
-
 A NodeJS back-end with Clustering algorithm pre-trained on Crime datasets.
+  ### Architecture:
+  ![arch image](https://github.com/udaypb/safe-paths/blob/master/Architecture.png)
 
 
 ## DataSet
