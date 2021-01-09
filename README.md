@@ -30,5 +30,5 @@ Based on the crime data, a model is pretrained on the labels for each of the cri
 
 ## Screens
 
-  ![arch image](https://github.com/udaypb/safe-paths/blob/master/safePaths-screenshot-1.png)  
+  ![arch image](https://github.com/udaypb/safe-paths/blob/master/safePaths-screenshot-1.png = 250x250)  
   ![arch image](https://github.com/udaypb/safe-paths/blob/master/safePaths-secreenshot-2.png)
