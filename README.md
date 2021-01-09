@@ -27,3 +27,8 @@ Based on the crime data, a model is pretrained on the labels for each of the cri
 - Node.JS (12.13.1)
 - Python (3)
 - MySQL 
+
+## Screens
+
+  ![arch image](https://github.com/udaypb/safe-paths/blob/master/safePaths-screenshot-1.png)  
+  ![arch image](https://github.com/udaypb/safe-paths/blob/master/safePaths-secreenshot-2.png)
