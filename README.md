@@ -29,6 +29,6 @@ Based on the crime data, a model is pretrained on the labels for each of the cri
 - MySQL 
 
 ## Screens
-<img src="https://github.com/udaypb/safe-paths/blob/master/safePaths-screenshot-1.png" width="300" height="300">
-<img src="https://github.com/udaypb/safe-paths/blob/master/safePaths-secreenshot-2.png" width="300" height="300">
+<img src="https://github.com/udaypb/safe-paths/blob/master/safePaths-screenshot-1.png" width="600" height="600">
+<img src="https://github.com/udaypb/safe-paths/blob/master/safePaths-secreenshot-2.png" width="600" height="600">
  
